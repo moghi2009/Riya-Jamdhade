@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+#heading{
+    text-align: center;
+    font-size: 150px;
+    color: red;
+    text-shadow: 5px 5px 5px grey;
+    animation: shadow;
+    animation-iteration-count: infinite;
+    animation-duration: 10px;
+}
+
