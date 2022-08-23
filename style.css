@@ -4,11 +4,24 @@ body{
 
 #heading{
     text-align: center;
-    font-size: 150px;
+    font-size: 125px;
     color: red;
     text-shadow: 5px 5px 5px grey;
     animation: shadow;
     animation-iteration-count: infinite;
     animation-duration: 10px;
+}
+
+#p1{
+    margin: 20px;
+    font-size: 18px;
+    color: wheat;
+}
+
+#p2{
+    font-size: 25px;
+    color: whitesmoke;
+    text-align: center;
+    margin: 10px;
 }
 
